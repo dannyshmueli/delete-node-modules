@@ -78,4 +78,3 @@ fi
 
 # Clean up temp file
 rm -f "$temp_file"
-
